@@ -144,3 +144,19 @@ Using security groups and RBAC simplifies administration while improving securit
 ### Account Restored
 ![Account Restored](15-Marcus-Restored.png)
 
+---
+
+# Lesson Learned
+
+This project reinforced the importance of properly managing user identities throughout the employee lifecycle.
+
+Using security groups and RBAC simplifies administration while improving security by ensuring users receive only the permissions required for their job responsibilities  
+
+---
+
+# Conclusion
+
+This lab simulates commmon responsibilities performed by IT Specialists and Junior Systems Administrators working in Microsoft Entra ID.
+
+The project demonstrated practical experience with enterprise identity management, onboarding, offboarding, password administration, and role assignments using Microsoft cloud technologies. 
+
