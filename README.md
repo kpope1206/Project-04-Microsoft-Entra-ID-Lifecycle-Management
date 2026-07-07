@@ -124,5 +124,8 @@ Using security groups and RBAC simplifies administration while improving securit
 
 ---
 
+## Screenshots
 
+### Azure Portal Home
+![Azure Portal](screenshots/01-Azure-Portal-Home.png)
 
