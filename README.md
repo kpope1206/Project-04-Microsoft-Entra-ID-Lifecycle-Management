@@ -4,7 +4,7 @@
 
 This project demonstrates a complete employee lifecycle in Microsoft Entra ID, Including onboarding, identity management, role assignments, password management, and employess offboarding.
 
-the objectives was to simulate the responsibilities of an IT Support Specialist or Junior Systems Administrator in a real enterprise environment.
+The objectives was to simulate the responsibilities of an IT Support Specialist or Junior Systems Administrator in a real enterprise environment.
 
 ---
 
@@ -16,7 +16,7 @@ As the IT Support Specialist, I was responsible for:
 
 - Creating user accounts
 - Assigning departments
-- adding users to security groups
+- Adding users to security groups
 - Assigning administrative roles
 - Performing password resets
 - Offboarding a terminated employee
@@ -105,7 +105,7 @@ Re-enabled Marcus Johnson's account and verfied continued access.
 
 ---
 
-## Ket Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - Identity Management
 - User Lifecycle Management
