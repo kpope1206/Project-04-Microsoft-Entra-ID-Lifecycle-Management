@@ -127,8 +127,8 @@ Using security groups and RBAC simplifies administration while improving securit
 ## Screenshots
 
 ### Azure Portal Home
-![Azure Portal Home](Screenshots/01-Azure-Portal-Home.png)
+![Azure Portal Home](01-Azure-Portal-Home.png)
 
 ### Microsoft Entra ID Users
-![Users](screenshots/02-All-Users.png)
+![Users](02-All-Users.png)
 
