@@ -132,3 +132,15 @@ Using security groups and RBAC simplifies administration while improving securit
 ### Microsoft Entra ID Users
 ![Users](02-All-Users.png)
 
+### User Administrator Role
+![User Administrator Role](10=User-Administrator-Role.png)
+
+### Password Reset
+![Password Reset](12-Password-Reset.png)
+
+### Disabled Account
+![Disabled Account](14-Marcus-Disabled.png)
+
+### Account Restored
+![Account Restored](15-Marcus-Restored.png)
+
